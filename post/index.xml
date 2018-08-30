@@ -20,8 +20,7 @@
       <pubDate>Thu, 24 Dec 2015 05:24:24 +0100</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>https://medbizz.github.io/2015/12/24/hugo/</guid>
-      <description>Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike other systems which dynamically build a page every time a visitor requests one, Hugo does the building when you create your content. Since websites are viewed far more often than they are edited, Hugo is optimized for website viewing while providing a great writing experience.
-Sites built with Hugo are extremely fast and very secure.</description>
+      <description>Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike other systems which dynamically build a page every time a visitor requests one, Hugo does the building when you create your content. Since websites are viewed far more often than they are edited, Hugo is optimized for website viewing while providing a great writing experience. Sites built with Hugo are extremely fast and very secure.</description>
     </item>
     
   </channel>
