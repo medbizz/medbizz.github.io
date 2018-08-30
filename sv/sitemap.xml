@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://medbizz.github.io/sv/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medbizz.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://medbizz.github.io/sv/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://medbizz.github.io/sv/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medbizz.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://medbizz.github.io/sv/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://medbizz.github.io/sv/topics/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medbizz.github.io/topics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://medbizz.github.io/sv/topics/"
+                />
+  </url>
+  
+</urlset>
